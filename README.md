@@ -5,5 +5,14 @@
   TEAM ID : PNT2022TMID42943
   
   
-  DOMAIN : Internet Of Things
+  Domain  : Internet Of Things
+  
+  
+# TEAM MEMBERS
+
+
+VAISHNAVI S
+VIDYA D
+SNEHA P
+SOWMIYA K
   
